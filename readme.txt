@@ -8,7 +8,7 @@ Stable tag: 3.4
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-An awesome social plugin, featuring all of the most popular social sites (31 to be exact). Choose from 16, 24 & 32px icons, all beautifully designed and pixel perfect.
+An awesome social plugin, featuring all of the most popular social sites.
 
 == Description ==
 
